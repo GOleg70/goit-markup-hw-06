@@ -849,6 +849,9 @@ span.logo-footer {
   .logo-footer {
     margin-left: 0;
   }
+  .footer-p {
+    margin: 0;
+  }
   .footer-p-two {
     margin-left: 0;
   }
